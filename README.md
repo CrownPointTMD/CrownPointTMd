@@ -13,3 +13,5 @@ I'm a programmer from the United Kingdom. I got into programming by using a plat
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrownPointTMD)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrownPointTMD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+If you have any issues with GEML Project bugs. Please create a ticket on our discord server or add an issue to one of our scripts.
