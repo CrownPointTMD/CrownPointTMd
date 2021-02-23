@@ -8,6 +8,10 @@ I'm a programmer from the United Kingdom. I got into programming by using a plat
 - Lua
 - HTML
 
+#### Want to work with me?
+Send me a direct message on discord:
+CrownPointTMD#2999
+
 ### Boring stats.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CrownPointTMD)](https://github.com/anuraghazra/github-readme-stats)
